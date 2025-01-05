@@ -1,0 +1,2 @@
+image_client:scout_ros/scout_base:scout_ros/scout_bringup:scout_ros/scout_description:scout_ros/scout_msgs:ugv_sdk
+-DCATKIN_DEVEL_PREFIX=/home/hdh/catkin_ws/devel -DCMAKE_INSTALL_PREFIX=/home/hdh/catkin_ws/install -G Unix Makefiles

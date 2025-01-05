@@ -1,0 +1,8 @@
+prefix=/home/hdh/catkin_ws/install
+
+Name: ugv_sdk
+Description: Description of ugv_sdk
+Version: 0.8.2
+Cflags: -I${prefix}/include
+Libs: -L${prefix}/lib -lugv_sdk
+Requires: 

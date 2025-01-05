@@ -1,0 +1,8 @@
+prefix=/home/hdh/catkin_ws/devel
+
+Name: image_client
+Description: Description of image_client
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 
